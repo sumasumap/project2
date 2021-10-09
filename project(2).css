@@ -1,0 +1,172 @@
+.h1{
+    text-align: center;    
+}
+#h1:hover{
+    background-color: rgb(245, 195, 238);
+}
+.maindiv{
+    border: 3px solid black;
+    margin: 30px;
+    padding: 20px;
+    background-color: rgb(246, 253, 145);
+}
+.b1{
+    background-color: rgb(250, 166, 243);
+    margin-left: 330px;
+    
+}
+.b2,.b3,.b4,.b5{
+    background-color: rgb(250, 166, 243);
+    margin-left: 55px;
+    
+}
+/* END OF BUTTONS*/
+
+.div1{
+    border: 4px solid black;
+    margin: 40px 40px 10px 40px;
+    background-color: rgb(194, 194, 255);   
+    font-size: 30px; 
+}
+
+.img1{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 250px;
+    border: 2.5px solid black;
+}
+.pre1{
+    padding: 3px;
+    font-size: 22px;
+    font-family: 'Apple Chanchary', cursive;
+    font-weight: bold;
+}
+.div2 , .div3{
+    padding-left: 120px;
+    font-size: 22px;
+}
+
+.button{
+    margin-left:100px;
+}
+.div4{
+    padding-left: 10px ;
+    padding-right: 10px;
+    font-size: 22px;
+}
+.img2{
+    width: 40px;
+    border: 2px solid black;
+    margin-left: 41px;
+    margin-right: 1200px;
+}
+.img3{
+    padding-left:10px ;
+    width: 40px;
+    height: 40px;
+}
+.img4{
+    padding-left:10px ;
+    width: 40px;
+    height: 37px;
+}
+.img5{
+    padding-left:10px ;
+    width: 35px;
+    height: 35px;
+}
+
+
+/* PAGE 2*/
+.div6{
+    border: 4px solid black;
+    margin: 20px 40px 0px 40px;
+    background-color: rgb(255, 192, 252);
+}
+.para2{
+    margin:80px;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.h3{
+    padding-left:80px;
+    font-style: inherit;
+    font-size: 28px;
+}
+.img6{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border: 2.5px solid black;
+}
+
+/* end of page3*/
+.div8{
+    margin: 40px 40px 30px 45px;
+    border: 3px solid black;
+    padding-right: 30px;
+    background-color: rgba(224, 224, 224, 0.356);
+}
+#h3{
+    padding-left: 20px;
+    font-size: 30px;
+}
+.para3{
+    border: 3.5px solid blue;
+    padding: 20px;
+    margin:0px 0px 20px 50px;
+    background-color: rgb(248, 220, 184);
+}
+
+/* end od page4*/
+
+.div9{
+    border: 3px solid blue;
+    margin: 50px;
+    background-color: palegreen;
+}
+.para4{            
+    margin: 50px;
+    padding: 20px;
+    font-size: 20px;
+}
+.img7, .img8, .img9 {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    width: 300px;
+    border: 2.5px solid black;   
+}
+.div10{
+    display:flex ;
+}
+.para5{    
+    padding: 50px;
+    font-size: 20px;
+}
+.social-icon{
+    margin-top: 0px;
+    padding: 0;
+    display: block;
+}
+.social-icon li{
+    display: inline-block;
+    margin: 1px 2px;
+}
+.social-icon li a{
+    display: block;
+    font-size: 30px;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 10px;
+    border:2px solid grey;
+}
+.social-icon .li2{
+    margin-left:10px ;
+}
